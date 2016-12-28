@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Typer Problem   
     
 Kita mencari developer yang mandiri, ketika ada masalah, aktif mencari solusi dengan sendirinya dan mudah mengerti instruksi tanpa terlalu banyak menanyakan untuk memahami instruksi.     
@@ -13,7 +12,3 @@ Pertanyaan:
 5. Ketika ukuran window dirubah, susunan huruf yang 'terbentur' batas window menjadi tidak 1 baris. Benarkan.    
 6. Implementasikan sistem score.   
 7. Implementasikan hukuman berupa pengurangan nilai bila salah ketik.
-=======
-# typer
-qerja.com test
->>>>>>> 24dd892e0d9e69ada981bb78bd07924cad86755b
