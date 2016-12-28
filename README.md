@@ -12,3 +12,23 @@ Pertanyaan:
 5. Ketika ukuran window dirubah, susunan huruf yang 'terbentur' batas window menjadi tidak 1 baris. Benarkan.    
 6. Implementasikan sistem score.   
 7. Implementasikan hukuman berupa pengurangan nilai bila salah ketik.
+
+Jawaban :
+
+1. List Library JS & CSS
+2. merubah animation_delay dari 100 menjadi 50 agar callback time setInterval lebih cepat dan membuat aplikasi lebih smooth.
+3. Menghilangkan comma (trailing comma), pada var Typer = Backbone.Model.extend -> defaults.
+4. Implementasi sudah di lakukan pada script di file typer.js
+5. Implementasi sudah di lakukan pada script di file typer.js
+6. Implementasi sudah di lakukan pada script di file typer.js
+7. Implementasi sudah di lakukan pada script di file typer.js
+
+
+List Library JS & CSS :
+
+* jquery-1.11.1.js , website library at http://jquery.com/ ,and documentation at http://api.jquery.com/
+* Sizzle.js, website library at http://sizzlejs.com/, and documentation at https://github.com/jquery/sizzle/wiki
+* jquery-ui.1.10.4.js, website library at http://jqueryui.com, and documentation at http://api.jqueryui.com/
+* Backbone.js , website library at https://backbonejs.org , and documentation at http://backbonejs.org/docs/backbone.html
+* Underscore.js , website library at http://underscorejs.org , and documentation at http://underscorejs.org/
+* Bootstrap CSS Framework (bootstrap.css) , website library at http://getboostrap.com, and documentation at http://getbootstrap.com/getting-started/
